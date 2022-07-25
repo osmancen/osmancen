@@ -9,7 +9,7 @@ I am data analytics professional, scientist, researcher, and educator. I am expe
 • peer reviewing manuscripts for biomedical journals  
 
 📫 How to reach me: 
-• LinkedIn: https://www.linkedin.com/in/osmancen/ 
+• LinkedIn: https://www.linkedin.com/in/osmancen/ | or through gmail: osmancen2011--->
 
 <!-- **osmancen/osmancen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 Here are some ideas to get you started:
